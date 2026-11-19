@@ -29,6 +29,9 @@ Este análisis puede servir para revisar cómo se distribuye el trabajo en la bo
 - `notebook/` — Cuaderno de Google Colab con el código y los gráficos.
 - `presentacion/` — Diapositivas de apoyo para la exposición.
 
+## COLAB
+https://colab.research.google.com/drive/1awJPI66uyMDupha5gVx_Xhv5lsZONepu 
+
 ## Video de presentación
 
 [Ver el video del proyecto](PEGA_AQUI_EL_ENLACE_PUBLICO)
