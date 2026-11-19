@@ -21,7 +21,7 @@ Este análisis puede servir para revisar cómo se distribuye el trabajo en la bo
 - Juan Camilo Sierra Tello
 - Estefania Otagri Rodriguez
 - Daniel camilo Sandoval Fajardo
-- BRAYAN ESTEVEN BARBOSA LONDOÑO   
+- Brayan Esteven Barbosa Londoño  
 
 ## Archivos del proyecto
 
