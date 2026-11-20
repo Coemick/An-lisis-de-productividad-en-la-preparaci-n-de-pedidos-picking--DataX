@@ -35,3 +35,6 @@ https://colab.research.google.com/drive/1ExGanzG30GSp_z4mtqzKdzYm42Xq1dLO?usp=sh
 ## Video de presentación
 
 [Ver el video del proyecto](PEGA_AQUI_EL_ENLACE_PUBLICO)
+
+## Análisis de productividad en Picking 
+
