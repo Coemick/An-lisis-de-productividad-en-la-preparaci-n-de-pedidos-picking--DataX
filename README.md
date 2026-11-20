@@ -30,7 +30,7 @@ Este análisis puede servir para revisar cómo se distribuye el trabajo en la bo
 - `presentacion/` — Diapositivas de apoyo para la exposición.
 
 ## COLAB
-https://colab.research.google.com/drive/1awJPI66uyMDupha5gVx_Xhv5lsZONepu 
+https://colab.research.google.com/drive/1ExGanzG30GSp_z4mtqzKdzYm42Xq1dLO?usp=sharing
 
 ## Video de presentación
 
