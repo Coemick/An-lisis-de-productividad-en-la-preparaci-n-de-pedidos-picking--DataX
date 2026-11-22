@@ -32,9 +32,3 @@ Este análisis puede servir para revisar cómo se distribuye el trabajo en la bo
 ## COLAB
 https://colab.research.google.com/drive/1ExGanzG30GSp_z4mtqzKdzYm42Xq1dLO?usp=sharing
 
-## Video de presentación
-
-[Ver el video del proyecto](PEGA_AQUI_EL_ENLACE_PUBLICO)
-
-## Análisis de productividad en Picking 
-
